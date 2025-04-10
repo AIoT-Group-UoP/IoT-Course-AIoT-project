@@ -1,9 +1,10 @@
 # Data local repository
 
-In this folder, please, put the data that are related to the gestures collection process before you upload it 
-to the database.
+In this folder, please, put the data that are related to the gestures 
+collection process before you upload it to the database.
 
-The directory should contain subdirectories each one having the name of the corresponding class.
+The directory should contain subdirectories each one having the name of the 
+corresponding class.
 
 For instance:
 
@@ -35,7 +36,9 @@ Each document in the MongoDB database should have the following schema:
 }
 ```
 
-Accordingly, if you are using gyroscope or both accelerometer and gyroscope, the following order and naming of the sensor keys should be defined:
+Accordingly, if you are using gyroscope or both accelerometer and gyroscope, 
+the following order and naming of the sensor keys should be defined:
 
 * for gyroscope: `gyr_x`, `gyr_y`, `gyr_z` for the three axes
-* for accelerometer and gyroscope: `acc_x`, `acc_y`, `acc_z`, `gyr_x`, `gyr_y`, `gyr_z` for the six axes
+* for accelerometer **and** gyroscope: `acc_x`, `acc_y`, `acc_z`, `gyr_x`, 
+`gyr_y`, `gyr_z` for the six axes
