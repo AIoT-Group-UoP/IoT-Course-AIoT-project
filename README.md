@@ -35,9 +35,6 @@ University of Patras.
 * Grade: **5**
 * You can submit that you are interested in this project until 
 **16 May, 2025**.
-* The repository will be publicly available until **22:00 on 18 May 2025**. 
-Thus, those who choose this project will have to download the announcement locally 
-on their computer.
 
 
 ## Project Description
@@ -291,8 +288,6 @@ in the literature section.
 * The project should be implemented in Python 3.8 or higher.
 * **Modify** the `requrements.txt` file to contain the latest versions of the 
 libraries you use and disable compatibility issues between them.
-* **Fork** the repository is **not** allowed. You should clone the repository 
-locally and work on it.
 
 
 ## References
