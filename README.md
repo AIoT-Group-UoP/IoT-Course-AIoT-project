@@ -32,7 +32,7 @@ University of Patras.
 * A team of **2 students** is mandatory for each project
 * Announcement date: **10 April, 2025, 23:00** 
 * Delivery Date: **30 June, 2025, 23:59**
-* Grade: **5**
+* Grade: **40%**
 * You can submit that you are interested in this project until 
 **16 May, 2025**.
 
@@ -165,12 +165,8 @@ Note: Use the MongoDB Compass GUI to check your databases and collections:
 
 For the Exploratory Data Analysis (EDA) and the Data Engineering process for 
 both a single instance, and the whole dataset, please, follow the instructions 
-in:
-1. `02_single_instance_eda_data_engineering.ipynb`
-2. `03_dataset_eda_data_engineering.ipynb`
-
-According to this step, your are prompted to implement and run the following 
-steps:
+below. In particular, according to this step, your are prompted to implement 
+and run the following steps:
 1. Provide a barplot that contains the time-length of the collected instances 
 for each class.
 2. Split the data into fixed windows of X seconds with X% overlap (in samples). 
