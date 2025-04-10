@@ -7,18 +7,19 @@ Recognition of AIoT lectures which are part of the course "Algorithmic
 Foundations of Sensor Networks" in the Computer Engineering and Informatics 
 Department, University of Patras.
 
-If you are interested in the project, please, send an email to: 
-[tzamalis@ceid.upatras.gr](mailto:tzamalis@ceid.upatras.gr) 
+If you are interested in the project, please send an email to
+[tzamalis@ceid.upatras.gr](mailto:tzamalis@ceid.upatras.gr), with the subject 
+“**AIoT Project 2025**”.
 
-Υou should include:
+Υou should include the following information:
 1. First Name
 2. Last Name
 3. email
 4. GitHub account username
 5. phone number
 
-and you will receive a response mail for the date and time when you can get 
-the wearable device from the IoT Lab:
+for **both** the members of the team, and **you will receive a response mail 
+for the date and time when you can get the wearable device from the IoT Lab**:
 
 * 1st floor, Building of Computer Engineering and Informatics Department, 
 University of Patras.
@@ -32,6 +33,11 @@ University of Patras.
 * Announcement date: **10 April, 2025, 23:00** 
 * Delivery Date: **30 June, 2025, 23:59**
 * Grade: **5**
+* You can submit that you are interested in this project until 
+**16 May, 2025**.
+* The repository will be publicly available until **22:00 on 18 May 2025**. 
+Thus, those who choose this project will have to download the announcement locally 
+on their computer.
 
 
 ## Project Description
@@ -285,6 +291,8 @@ in the literature section.
 * The project should be implemented in Python 3.8 or higher.
 * **Modify** the `requrements.txt` file to contain the latest versions of the 
 libraries you use and disable compatibility issues between them.
+* **Fork** the repository is **not** allowed. You should clone the repository 
+locally and work on it.
 
 
 ## References
