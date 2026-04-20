@@ -3,9 +3,9 @@
 **An End-to-end Artificial Intelligence of Things Project**
 
 This is a repository that contains the demonstration of the Human Gesture 
-Recognition of AIoT lectures which are part of the course "Algorithmic 
-Foundations of Sensor Networks" in the Computer Engineering and Informatics 
-Department, University of Patras.
+Recognition of AIoT lectures which are part of the course "Artificial 
+Intelligence Algorithms and Applications for the Internet of Things (IoT)" 
+in the Computer Engineering and Informatics Department, University of Patras.
 
 If you are interested in the project, please send an email to
 [tzamalis@ceid.upatras.gr](mailto:tzamalis@ceid.upatras.gr), with the subject 
@@ -29,13 +29,10 @@ University of Patras.
 
 ## About this Project
 
-* A team of **2 students** is mandatory for each project
+* A team of **3 students** is mandatory for each project
 * Announcement date: **10 April, 2025, 23:00** 
 * Delivery Date: **30 June, 2025, 23:59**
 * Grade: **40%**
-* You can submit that you are interested in this project until 
-**16 May, 2025**.
-
 
 ## Project Description
 
@@ -282,7 +279,7 @@ Format (Google) that is included in the project announcement.
 * You can select and deploy any of the ML models that are presented 
 in the literature section.
 * The project should be implemented in Python 3.8 or higher.
-* **Modify** the `requrements.txt` file to contain the latest versions of the 
+* **Modify** the `requirements.txt` file to contain the latest versions of the 
 libraries you use and disable compatibility issues between them.
 
 
@@ -292,27 +289,36 @@ libraries you use and disable compatibility issues between them.
 
 [2] Mbientlab, "Wrist Band Kit for MMC and MMR," Mbientlab, [Online]. Available: https://mbientlab.com/store/wristband-sensor-research-kit/.
 
-[3] Iyer, Darshan, Fahim Mohammad, Yuan Guo, Ebrahim Al Safadi, Benjamin J. Smiley, Zhiqiang Liang, and Nilesh K. 
+[3] Tzamalis, Pantelis, Sotiris Nikoletseas, and Paul G. Spirakis. "Gestureset: Public domain dataset for human gesture 
+recognition using wrist-worn devices: A preliminary version." In 2023 19th International Conference on Distributed 
+Computing in Smart Systems and the Internet of Things (DCOSS-IoT), pp. 404-413. IEEE, 2023.
+
+[4] Aggelides, Xenophon, Andreas Bardoutsos, Sotiris Nikoletseas, Nikos Papadopoulos, Christoforos Raptopoulos, and 
+Pantelis Tzamalis. "A gesture recognition approach to classifying allergic rhinitis gestures using wrist-worn devices: 
+a multidisciplinary case study." In 2020 16th International Conference on Distributed Computing in Sensor Systems (DCOSS), 
+pp. 1-10. IEEE, 2020.
+
+[5] Iyer, Darshan, Fahim Mohammad, Yuan Guo, Ebrahim Al Safadi, Benjamin J. Smiley, Zhiqiang Liang, and Nilesh K. 
 Jain., "Generalized hand gesture recognition for wearable devices in IoT: Application and implementation challenges.," 
 in Machine Learning and Data Mining in Pattern Recognition: 12th International Conference, MLDM 2016, New York, NY, 
 USA, 2016. 
 
-[4] Xu, Chao, Parth H. Pathak, and Prasant Mohapatra., "Finger-writing with smartwatch: A case for finger and hand 
+[6] Xu, Chao, Parth H. Pathak, and Prasant Mohapatra., "Finger-writing with smartwatch: A case for finger and hand 
 gesture recognition using smartwatch," in 16th International Workshop on Mobile Computing Systems and Applications, 2015. 
 
-[5] Liu, Fang-Ting, Yong-Ting Wang, and Hsi-Pin Ma., "Gesture recognition with wearable 9-axis sensors.," in 
+[7] Liu, Fang-Ting, Yong-Ting Wang, and Hsi-Pin Ma., "Gesture recognition with wearable 9-axis sensors.," in 
 International Conference on Communications (ICC), 2017. 
 
-[6] Tzamalis, Pantelis, Andreas Bardoutsos, Dimitris Markantonatos, Christoforos Raptopoulos, Sotiris Nikoletseas, 
+[8] Tzamalis, Pantelis, Andreas Bardoutsos, Dimitris Markantonatos, Christoforos Raptopoulos, Sotiris Nikoletseas, 
 Xenophon Aggelides, and Nikos Papadopoulos., "End-to-end Gesture Recognition Framework for the Identification of 
 Allergic Rhinitis Symptoms.," in 2022 18th International Conference on Distributed Computing in Sensor Systems (DCOSS), 
 Marina del Rey, Los Angeles, CA, USA, 2022. 
 
-[7] Zhu, Peide, Hao Zhou, Shumin Cao, Panlong Yang, and Shuangshuang Xue., "Control with gestures: A hand gesture 
+[9] Zhu, Peide, Hao Zhou, Shumin Cao, Panlong Yang, and Shuangshuang Xue., "Control with gestures: A hand gesture 
 recognition system using off-the-shelf smartwatch.," in IEEE, 4th International Conference on Big Data Computing and 
 Communications (BIGCOM), 2018. 
 
-[8] Tzamalis, Pantelis, "Python Data Science and Machine Learning Tutorials", [Online]. Available: https://github.com/tzamalisp/data-science-and-machine-learning-tutorials
+[10] Tzamalis, Pantelis, "Python Data Science and Machine Learning Tutorials", [Online]. Available: https://github.com/tzamalisp/data-science-and-machine-learning-tutorials
 
 
 ## Contact
