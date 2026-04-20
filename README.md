@@ -373,7 +373,8 @@ Xenophon Aggelides, and Nikos Papadopoulos., "End-to-end Gesture Recognition Fra
 Allergic Rhinitis Symptoms.," in 2022 18th International Conference on Distributed Computing in Sensor Systems (DCOSS), 
 Marina del Rey, Los Angeles, CA, USA, 2022. 
 
-[10] Tzamalis, Pantelis, "Python Data Science and Machine Learning Tutorials", [Online]. Available: https://github.com/tzamalisp/data-science-and-machine-learning-tutorials
+[10] Tzamalis, Pantelis, "Python Data Science and Machine Learning Tutorials", [Online]. 
+Available: https://github.com/tzamalisp/data-science-and-machine-learning-tutorials
 
 
 ## Contact
