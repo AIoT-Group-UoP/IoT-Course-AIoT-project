@@ -67,9 +67,3 @@ fine_tune:
    ]
   cv: 5
   verbose: 1
-
-# Classifier - Neural Network
-fit:
-  epochs:
-  batch:
-  verbose: "auto"

@@ -218,13 +218,14 @@ def encode_labels(instances_list) -> np.ndarray:
 
 
 def list_files_in_folder(folder_path) -> list:
-    """Returns a list with the files in the folder.
+    """Returns a list of all CSV files within the specified folder.
 
     Args:
-        folder_path:
+        folder_path (str): The directory path to search for files.
 
     Returns:
-
+        list: A list containing the filenames (strings) of all files
+              in the directory that end with the '.csv' extension.
     """
     files_list = list()
     for f in listdir(folder_path):

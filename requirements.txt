@@ -8,9 +8,6 @@ seaborn==0.13.2
 notebook==7.1.3
 pymongo==4.6.3
 pyyaml==6.0.1
-tqdm==4.66.2
 ipywidgets==8.1.2
-tensorflow==2.14.0
-tensorflow-metal==1.1.0; platform_system=='Darwin'
 psynlig==0.2.2.dev0
 pydot==2.0.0
